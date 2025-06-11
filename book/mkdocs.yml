@@ -1,0 +1,4 @@
+site_name: BlueSec
+theme:
+  name: terminal
+  palette: dark
