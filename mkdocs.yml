@@ -1,0 +1,9 @@
+site_name: BlueSec
+nav:
+  - Redes:
+    - Portas: Redes/Portas.md
+  - Index: index.md
+  - Sobre: sobre.md
+theme:
+  name: terminal
+  palette: dark
